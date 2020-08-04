@@ -1,4 +1,5 @@
 <div align="center">
+[![Run on Repl.it](https://repl.it/badge/github/Floresco/mern-starter)](https://repl.it/github/Floresco/mern-starter)
 <h1> MERN Starter Template     
   <p>
   <br>
